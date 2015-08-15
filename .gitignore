@@ -1,0 +1,11 @@
+*.pyc
+data/
+data_useast/
+ip_to_use
+plots/
+results/
+results_useast/
+subset_data/
+test_results/
+timeout_dns_servers.txt
+timeout_rounds_for_ip
